@@ -5,14 +5,6 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=pehedemacedo.pehedemacedo&"  />
 </div>
 
@@ -26,15 +18,15 @@
 
 ###
 
-<p align="left">Eu sou o Pedro, do brasil!<br><br>- 🔭Procurando vagas de emprego como jovem aprendiz de DS<br>- 📚 Atualmente estou aprendendo como mexer na Unity<br>- ⚡ No meu tempo livre eu amasso os pro players de CS 😝</p>
+<p align="center">Eu sou o Pedro, do brasil!<br><br>- 🔭Procurando vagas de emprego como jovem aprendiz de DS<br>- 📚 Atualmente estou aprendendo como mexer na Unity<br>- ⚡ No meu tempo livre eu amasso os pro players de CS 😝</p>
 
 ###
 
-<h3 align="left">🛠 Linguagens e Ferramentas</h3>
+<h3 align="center">🛠 Linguagens e Ferramentas</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
@@ -52,16 +44,16 @@
 
 ###
 
-<h3 align="left">🔥   Meus status :</h3>
+<h3 align="center">🔥   Meus status :</h3>
 
 ###
 
-<img src="https://streak-stats.demolab.com?user=pehedemacedo&theme=darcula&hide_border=true" alt="pehedemacedo's GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=pehedemacedo&theme=darcula&hide_border=true" alt="pehedemacedo's GitHub Stats" align="center"/>
 
 </p>
 
 ###
 
-<img src="https://raw.githubusercontent.com/pehedemacedo/pehedemacedo/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/pehedemacedo/pehedemacedo/output/snake.svg" alt="Snake animation" align="center"/>
 
 ###
