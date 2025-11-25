@@ -54,6 +54,8 @@
 </p>
 
 ###
+<div align="center">
   <img align="center" src="https://raw.githubusercontent.com/pehedemacedo/pehedemacedo/output/snake.svg" alt="Snake animation"/>
+</div>
 
 ###
