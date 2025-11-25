@@ -47,14 +47,13 @@
 <h3 align="center">🔥   Meus status :</h3>
 
 ###
-
-<img src="https://streak-stats.demolab.com?user=pehedemacedo&theme=darcula&hide_border=true" alt="pehedemacedo's GitHub Stats" align="center"/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=pehedemacedo&theme=darcula&hide_border=true" alt="pehedemacedo's GitHub Stats" align="center"/>
+</div>
 
 </p>
 
 ###
-<div align="center">
-  <img align="center" src="https://raw.githubusercontent.com/pehedemacedo/pehedemacedo/output/snake.svg" alt="Snake animation" align="center"/>
-</div>
+  <img align="center" src="https://raw.githubusercontent.com/pehedemacedo/pehedemacedo/output/snake.svg" alt="Snake animation"/>
 
 ###
