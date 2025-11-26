@@ -18,7 +18,7 @@
 
 ###
 
-<p align="center">Eu sou o Pedro, do brasil!<br><br>- 🔭Procurando vagas de emprego como jovem aprendiz de DS<br>- 📚 Atualmente estou aprendendo como mexer na Unity<br>- ⚡ No meu tempo livre eu amasso os pro players de CS 😝</p>
+<p align="center">Eu sou o Pedro, do brasil!<br><br>- 🔭Procurando vagas de emprego como jovem aprendiz de DS<br>- 📚 Atualmente estou masterizando a Unity<br>- ⚡ No meu tempo livre eu amasso os pro players de CS 😝</p>
 
 ###
 
